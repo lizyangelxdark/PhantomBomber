@@ -20,7 +20,7 @@ To use the bomber type the following commands in Termux:
 $ pkg install git -y 
 $ pkg install python -y 
 $ git clone https://github.com/lizyangelxdark/PhantomBomber.git
-$ cd TBomb
+$ cd PhantomBomber
 $ ./TBomb.sh
 ```
 
@@ -34,7 +34,7 @@ $ apk add py3-pip
 $ apk add ruby
 $ gem install toilet
 $ git clone https://github.com/lizyangelxdark/PhantomBomber.git
-$ cd TBomb
+$ cd PhantomBomber
 $ pip3 install -r requirements.txt
 $ chmod +x TBomb.sh
 $ ./TBomb.sh
